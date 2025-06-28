@@ -27,3 +27,6 @@ These operations are realized in the below figures.
 ![Screenshot 2024-02-07 093325](https://github.com/DevinduDh/DWT-Verilog/assets/76746921/8b13ccd6-2635-4c8c-9985-841587c58b99)
 ![Screenshot 2024-02-07 093316](https://github.com/DevinduDh/DWT-Verilog/assets/76746921/68898585-054b-4e01-8636-4548cd5a0860)
 ![Screenshot 2024-02-07 093305](https://github.com/DevinduDh/DWT-Verilog/assets/76746921/f2b87e06-b625-4f00-a4bb-f4c970164a03)
+
+Reference: [https://www.sciencedirect.com/science/article/pii/S1383762106001391](https://www.sciencedirect.com/science/article/pii/S1383762106001391)
+
